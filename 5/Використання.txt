@@ -1,0 +1,2 @@
+Логін: test_user
+Пароль: password123
